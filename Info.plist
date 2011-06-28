@@ -5,7 +5,9 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
-	<string>AppSales</string>
+	<string>xProgress</string>
+	<key>CFBundleDocumentTypes</key>
+	<array/>
 	<key>CFBundleExecutable</key>
 	<string>${EXECUTABLE_NAME}</string>
 	<key>CFBundleIconFiles</key>
@@ -15,15 +17,17 @@
 		<string>Icon57.png</string>
 	</array>
 	<key>CFBundleIdentifier</key>
-	<string>de.omzsoftware.${PRODUCT_NAME:identifier}</string>
+	<string>de.omzsoftware.xProgress</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>${PRODUCT_NAME}</string>
+	<string>xProgress</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array/>
 	<key>CFBundleVersion</key>
 	<string>1.6</string>
 	<key>LSRequiresIPhoneOS</key>
@@ -35,5 +39,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>UTExportedTypeDeclarations</key>
+	<array/>
+	<key>UTImportedTypeDeclarations</key>
+	<array/>
 </dict>
 </plist>
